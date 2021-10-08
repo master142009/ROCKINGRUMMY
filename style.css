@@ -118,4 +118,10 @@ html {
 a {
     text-decoration: none;
     font-size: 30px;
-}      
+}  
+
+#Inspireation {
+    padding: 100px;
+    text-align: center;
+    font-size: 42px;
+}
